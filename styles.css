@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+header {
+    background-color: #0077cc;
+    padding: 10px;
+    color: white;
+}
+
+.calculator-container {
+    margin-top: 20px;
+}
+
+input, button {
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.button-calculate {
+    background-color: #0077cc;
+    color: white;
+    cursor: pointer;
+}
+
+#totalCost {
+    font-weight: bold;
+}
